@@ -1,4 +1,4 @@
-<img src="https://blog.hazel-lab.net/img/og.png" alt="Hazel-Lab" width="600">
+<img src="og.png" alt="Hazel-Lab" width="600">
 
 # Hazel-Lab
 
